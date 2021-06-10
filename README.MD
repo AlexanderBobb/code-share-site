@@ -1,4 +1,4 @@
-Alexander Bobb's Blackjack website
+I have created an app that alows people to share code snippets with one another. 
 steps to run: 
 1. Make sure Mongodb is running on the device. 
 2. Navigate the folder to /src. 
