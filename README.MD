@@ -1,5 +1,5 @@
 Alexander Bobb's Blackjack website
-Steps to run: 
+steps to run: 
 1. Make sure Mongodb is running on the device. 
 2. Navigate the folder to /src. 
 3. Run: 'node app.js'
