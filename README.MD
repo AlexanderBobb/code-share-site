@@ -1,4 +1,4 @@
-Alexander Bobb (ab7253) Homework 8.
+Alexander Bobb's Blackjack website
 Steps to run: 
 1. Make sure Mongodb is running on the device. 
 2. Navigate the folder to /src. 
